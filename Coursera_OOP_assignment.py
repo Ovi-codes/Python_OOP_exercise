@@ -1,4 +1,4 @@
-# # Assessment - Object-oriented programming
+# Assignment - Object-oriented programming
 
 # This code was originally written in Jupyter Notebook, hence the 'block' style of comments and prompts
 
